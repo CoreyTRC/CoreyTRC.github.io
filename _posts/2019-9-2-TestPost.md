@@ -1,3 +1,1 @@
-static void Main(){      
-                   Console.WriteLine("This is just a test");
-                  }
+This is just a test post as i dont know what i am doing
